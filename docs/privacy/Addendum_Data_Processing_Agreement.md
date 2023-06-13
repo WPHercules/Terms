@@ -225,6 +225,44 @@ Governing law: This Agreement, and any dispute or claim arising out of or in con
 Jurisdiction: Each party irrevocably agrees that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim arising out of or in connection with this Agreement or its subject matter or formation (including non-contractual disputes or claims).
 
 
+## ANNEX A Standard Contractual Clauses (processors)
+
+**For Controller Data transferred outside of the European Union:** 
+
+For transfers outside of the European Union, the parties agree to be bound by the Standard Contractual Clauses. The Standard Contractual Clauses (linked below) are incorporated into this Data Processing Addendum: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021D0914&from=EN
+There are certain sections of the Standard Contractual Clauses that require population or selection which are outlined in the following table for simplicity:
+
+| Section Reference | Concept | Selection by the Parties |
+| --- | --- | --- |
+| Clause 7 | Docking Clause | The option under clause 7 shall not apply |
+| Section II, Clause 9 | Approval of Subprocessors | Option 2: GENERAL WRITTEN AUTHORIZATION |
+| Section IV, Clause 17 | Governing law | The laws of England and Wales insofar as transfers are governed by UK Data Protection Laws |
+| Section IV, Clause 18 (b) | Choice of forum and jurisdiction | The courts of England and Wales shall have exclusive jurisdiction |
+| Annex I.A | List of Parties | The parties on this Agreement |
+| Annex I.B | Description of Transfer | As described on ANNEX C |
+| Annex I.C | Competent Supervisory Authority | the UK’s Information Commissioner |
+| Annex II | Technical and Organisational Measures | See Annex B of this Agreement |
+| Annex III | List of Subprocessors | As described on this Agreement |
+
+**For Controller Data to be transferred outside of the United Kingdom.**
+
+For transfers outside of the United Kingdom, the parties are able to use a UK Addendum. The UK Addendum (linked below) is incorporated into this Data Processing Addendum: https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf
+
+| Section Reference | Concept | Selection by the Parties |
+| --- | --- | --- |
+| Clause 7 | Docking Clause | The option under clause 7 shall not apply |
+| Clause 11 | Redress | The option under clause 11 shall not apply |
+| Section II, Clause 9(a) | Approval of Subprocessors | Option 2: GENERAL WRITTEN AUTHORIZATION |
+| Section IV, Clause 17 | Governing law | The laws of England and Wales insofar as transfers are governed by UK Data Protection Laws |
+| Section IV, Clause 18 (b) | Choice of forum and jurisdiction | The courts of England and Wales shall have exclusive jurisdiction |
+| Annex I.A | List of Parties | The parties on this Agreement |
+| Annex I.B | Description of Transfer | As described on ANNEX C |
+| Annex I.C | Competent Supervisory Authority | the UK’s Information Commissioner |
+| Annex II | Technical and Organisational Measures | See Annex B of this Agreement |
+| Annex III | List of Subprocessors | As described on this Agreement |
+| Section 19 0f UK Addendum | End of UK Addendum when the Approved Addendum changes | Neither party may end this UK Addendum per Section 19 of the UK Addendum, except as set forth in the Agreement |
+
+
 
 ## ANNEX A Standard Contractual Clauses (processors)
 
@@ -232,33 +270,39 @@ Jurisdiction: Each party irrevocably agrees that the courts of England and Wales
 
 For transfers outside of the European Union, the parties agree to be bound by the Standard Contractual Clauses. The Standard Contractual Clauses (linked below) are incorporated into this Data Processing Addendum: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021D0914&from=EN There are certain sections of the Standard Contractual Clauses that require population or selection which are outlined in the following table for simplicity:
 
-#### Section Reference  Concept  Selection by the Parties
-Clause 7  Docking Clause  The option under clause 7 shall not apply
-Section II, Clause 9  Approval of Subprocessors  Option 2: GENERAL WRITTEN AUTHORIZATION
-Section IV, Clause 17  Governing law  The laws of England and Wales insofar as transfers are governed by UK Data Protection Laws
-Section IV, Clause 18 (b)  Choice of forum and jurisdiction The courts of England and Wales shall have exclusive jurisdiction to resolve any dispute or lawsuit arising out of or in connection with this Addendum
-Annex I.A  List of Parties The parties on this Agreement.
-Annex I.B  Description of Transfer  As described on ANNEX C
-Annex I.C  Competent Supervisory Authority the UK’s Information Commissioner
-Annex II  Technical and Organisational Measures See Annex B of this Agreement
-Annex III  List of Subprocessors  As described on this Agreement
+| Section Reference | Concept | Selection by the Parties |
+| --- | --- | --- |
+| Clause 7 | Docking Clause | The option under clause 7 shall not apply |
+| Section II, Clause 9 | Approval of Subprocessors | Option 2: GENERAL WRITTEN AUTHORIZATION |
+| Section IV, Clause 17 | Governing law | The laws of England and Wales insofar as transfers are governed by UK Data Protection Laws |
+| Section IV, Clause 18 (b) | Choice of forum and jurisdiction | The courts of England and Wales shall have exclusive jurisdiction to resolve any dispute or lawsuit arising out of or in connection with this Addendum |
+| Annex I.A | List of Parties | The parties on this Agreement |
+| Annex I.B | Description of Transfer | As described on ANNEX C |
+| Annex I.C | Competent Supervisory Authority | the UK’s Information Commissioner |
+| Annex II | Technical and Organisational Measures | See Annex B of this Agreement |
+| Annex III | List of Subprocessors | As described on this Agreement |
+
 Further, if the Standard Contractual Clauses are implemented, adopted, or recognized as a legitimate data transfer mechanism in countries other than the EEA countries, then it shall apply the Standard Contractual Clauses to the transfer of Personal Data originating from such country(-ies).
 
 **For Controller Data to be transferred outside of the United Kingdom.**
-For transfers outside of the United Kingdom, the parties are able to use a UK Addendum. The UK Addendum (linked below) is incorporated into this Data Processing Addendum: https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf In using the UK Addendum, similar to the Standard Contractual Clauses, there are certain sections of the UK Addendum that require population or selection and are outlined in the following table for simplicity:
+For transfers outside of the United Kingdom, the parties are able to use a UK Addendum. The UK Addendum (linked below) is incorporated into this Data Processing Addendum: https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf 
 
-#### Section Reference Concept Selection by the Parties
-Clause 7  Docking Clause  The option under clause 7 shall not apply
-Clause 11  Redress  The option under clause 11 shall not apply
-Section II, Clause 9(a) Approval of Sub processors Option 2: GENERAL WRITTEN AUTHORIZATION
-Section IV, Clause 17 Governing law The laws of England and Wales insofar as transfers are governed by UK Data Protection Laws 
-Section IV, Clause 18 (b) Choice of forum and jurisdiction The courts of England and Wales shall have exclusive jurisdiction to resolve any dispute or lawsuit arising out of or in connection with this UK Addendum
-Annex I.A  List of Parties The parties on this Agreement.
-Annex I.B  Description of Transfer  As described on ANNEX C
-Annex I.C  Competent Supervisory Authority the UK’s Information Commissioner
-Annex II  Technical and Organisational Measures See Annex B of this Agreement
-Annex III  List of Subprocessors  As described on this Agreement
-Section 19 0f UK Addendum End of UK Addendum when the Approved Addendum changes Neither party may end this UK Addendum per Section 19 of the UK Addendum, except as set forth in the Agreement
+In using the UK Addendum, similar to the Standard Contractual Clauses, there are certain sections of the UK Addendum that require population or selection and are outlined in the following table for simplicity:
+
+
+| Section Reference | Concept | Selection by the Parties |
+| --- | --- | --- |
+| Clause 7 | Docking Clause | The option under clause 7 shall not apply |
+| Clause 11 | Redress | The option under clause 11 shall not apply |
+| Section II, Clause 9(a) | Approval of Subprocessors | Option 2: GENERAL WRITTEN AUTHORIZATION |
+| Section IV, Clause 17 | Governing law | The laws of England and Wales insofar as transfers are governed by UK Data Protection Laws |
+| Section IV, Clause 18 (b) | Choice of forum and jurisdiction | The courts of England and Wales shall have exclusive jurisdiction to resolve any dispute or lawsuit arising out of or in connection with this UK Addendum |
+| Annex I.A | List of Parties | The parties on this Agreement |
+| Annex I.B | Description of Transfer | As described on ANNEX C |
+| Annex I.C | Competent Supervisory Authority | the UK’s Information Commissioner |
+| Annex II | Technical and Organisational Measures | See Annex B of this Agreement |
+| Annex III | List of Subprocessors | As described on this Agreement |
+| Section 19 0f UK Addendum | End of UK Addendum when the Approved Addendum changes | Neither party may end this UK Addendum per Section 19 of the UK Addendum, except as set forth in the Agreement |
 
 
 ## ANNEX B Security
@@ -266,7 +310,7 @@ Section 19 0f UK Addendum End of UK Addendum when the Approved Addendum changes 
 The Data processor maintains safeguards designed to protect Controller Data from unauthorised access, use and disclosure. The Data processor currently abides by the security standards below and may update or modify these security standards from time to time, provided that such updates and modifications will not result in a degradation of the overall security of the services during the term of the User’s Agreement.
 
 More information about the security can be found on the link: 
-https://wpherc.com/terms/privacy-policy/security-policy/
+https://terms.wphercules.com/privacy/Security_Policy
 
 
 
@@ -298,5 +342,5 @@ The data importer will retain personal data for as long as necessary to provide 
 
 **For transfers to (sub-) processors, also specify subject matter, nature and duration of the processing**
 
-The data importer may share personal data with sub-processors for the subject matter and nature described in our Privacy Policy, available at https://wpherc.com/privacy-policy. Sub-processors retain personal data for the duration of time necessary to perform sub-processing activities under the agreement between the data importer and the sub-processor.
+The data importer may share personal data with sub-processors for the subject matter and nature described in our Privacy Policy, available at https://terms.wphercules.com/privacy/privacy. Sub-processors retain personal data for the duration of time necessary to perform sub-processing activities under the agreement between the data importer and the sub-processor.
 
