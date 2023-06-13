@@ -1,8 +1,8 @@
-# 2-2-Services-WordPress-Managed-Related-wpherc-es
+# Annex II Managed WordPress Terms
 
-***Effective as of 12th March 2020***
+***Effective as of 12th March 2021***
 
-This document is considered part of WPHercules [Terms of Service](https://wpherc.com/terms/terms-of-service/). **[SCHEDULE II: WordPress Managed and Related Services Terms and Conditions](about:blank#schedule2)**
+This document is considered part of WPHercules [Terms of Service](https://terms.wphercules.com/terms-of-service/). **[SCHEDULE II: WordPress Managed and Related Services Terms and Conditions](about:blank#schedule2)**
 
 ## SCHEDULE II: WordPress Managed and Related Services Terms and Conditions
 

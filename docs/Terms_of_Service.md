@@ -1,6 +1,6 @@
-# Terms of Service-en
+# Terms of Service 
 
-***Effective as of 12th March 2020***
+***Effective as of 12th March 2021***
 
 ---
 
@@ -32,7 +32,7 @@ whichever of the above takes place first. The Supplier may reject the agreement 
 
 ## 3.- Client Obligations
 
-- The Customer agrees to conform to the standards and acceptable use policies of WPHercules which are set out in our [Acceptable Use Policy (AUP)](https://wpherc.com/terms/acceptable-use-policy/).
+- The Customer agrees to conform to the standards and acceptable use policies of WPHercules which are set out in our [Acceptable Use Policy (AUP)](https://terms.wphercules.com/acceptable-use-policy/).
 - The Customer agrees to pay all fees and charges levied by WPHercules by the invoice due date.
 - The Customer agrees to a Minimum Contract Period for the relevant Services obtained.
 - The Customer agrees to abide by the regulations set forth in this Agreement.
@@ -46,7 +46,7 @@ whichever of the above takes place first. The Supplier may reject the agreement 
 
 ## 4.- General terms and conditions
 
-- WPHercules will adhere to all relevant Data Protection legislation in relation to personal details that the Customer may provide from time to time, and associated information will be managed according to [WPHercules Privacy Policy](https://wpherc.com/terms/privacy-policy/). The Customer agrees that WPHercules is under no obligation to edit, review or otherwise modify any information provided by or behalf of the Customer.
+- WPHercules will adhere to all relevant Data Protection legislation in relation to personal details that the Customer may provide from time to time, and associated information will be managed according to [WPHercules Privacy Policy](https://terms.wphercules.com/privacy-policy/). The Customer agrees that WPHercules is under no obligation to edit, review or otherwise modify any information provided by or behalf of the Customer.
 - WPHercules will provide internet connectivity for Services as agreed within the Service Order for the duration and under the terms of this Agreement.
 - WPHercules will provide technical support services as defined herein or within any Service Order for Services of the Customer.
 - Certain aspects of the Services will only be licensed to you. These aspects may only be used by you while using the Services, and may not be transferred. Upon Termination of this TOS, or a particular Service, this license will end.
@@ -193,28 +193,28 @@ whichever of the above takes place first. The Supplier may reject the agreement 
 
 ## SCHEDULE I Web Hosting and Related Services Terms and Conditions
 
-You can find the WPHercules Acceptable Use Policy on this link: https://wpherc.com/terms/web-hosting-services-terms/
+You can find the WPHercules Acceptable Use Policy on this link: https://terms.wphercules.com/web-hosting-services-terms/
 
 ---
 
 ## SCHEDULE II WordPress Managed and Related Services Terms and Conditions
 
-You can find the WordPress Managed and Related Services Terms and Conditions on this link: https://wpherc.com/terms/wordpress-managed-services-terms/
+You can find the WordPress Managed and Related Services Terms and Conditions on this link: https://terms.wphercules.com/wordpress-managed-services-terms/
 
 ---
 
 ## SCHEDULE III WPHercules Acceptable Use Policy
 
-You can find the WPHercules Acceptable Use Policy on this link: https://wpherc.com/terms/acceptable-use-policy/
+You can find the WPHercules Acceptable Use Policy on this link: https://terms.wphercules.com/acceptable-use-policy/
 
 ---
 
 ## SCHEDULE IV: WPHercules Privacy Policy
 
-You can find the WPHercules Privacy Policy on this link: https://wpherc.com/terms/privacy-policy/
+You can find the WPHercules Privacy Policy on this link: https://terms.wphercules.com/privacy-policy/
 
 ---
 
 ## SCHEDULE V: WPHercules Affiliate Agreement
 
-You can find the WPHercules Affiliate Agreement on this link: https://wpherc.com/terms/affiliates-agreement/
+You can find the WPHercules Affiliate Agreement on this link: https://terms.wphercules.com/affiliates-agreement/

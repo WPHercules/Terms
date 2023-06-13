@@ -1,8 +1,8 @@
-# SCHEDULE I-Web Hosting and Related Services Terms and Conditions-en
+# SCHEDULE I-Web Hosting and Related Services Terms and Conditions
 
-***Effective as of 12th March 2020***
+***Effective as of 12th March 2021***
 
-This document is considered part of WPHercules [Terms of Service](https://wpherc.com/terms/terms-of-service/). **[SCHEDULE I: Web Hosting and Related Services Terms and Conditions](about:blank#schedule1)**
+This document is considered part of WPHercules [Terms of Service](https://terms.wphercules.com/terms-of-service/). **[SCHEDULE I: Web Hosting and Related Services Terms and Conditions](about:blank#schedule1)**
 
 ## SCHEDULE I: Web Hosting and Related Services Terms and Conditions
 

@@ -1,8 +1,8 @@
-# acceptable-use-policy
+# Acceptable Use Policy
 
-***Updated 9th December 2018***
+***Updated 9th June 2023***
 
-This document is considered part of WPHercules [TOS](https://wpherc.com/terms/terms-of-service/).
+This document is considered part of WPHercules [TOS](https://terms.wphercules.com/Terms_of_Service).
 
 ## 1.- Description
 
