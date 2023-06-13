@@ -4,23 +4,23 @@ Click on the titles below to access the documents.
 
 ---
 
-## 📄 [Privacy Policy](./Privacy-Policy.md)
+## 📄 [Privacy Policy](./Privacy_Policy.md)
 
 ---
 
-## 📄 [Addendum: Data Processing Agreement](./Addendum-Data-Processing-Agreement.md)
+## 📄 [Addendum: Data Processing Agreement](./Addendum_Data_Processing_Agreement.md)
 
 ---
 
-## 📄 [Cookie Policy](./Cookie-Policy.md)
+## 📄 [Cookie Policy](./Cookie_Policy.md)
 
 ---
 
-## 📄 [Third Party Subprocessors](./Third-Party-Subprocessors.md)
+## 📄 [Third Party Subprocessors](./Third_Party_Subprocessors.md)
 
 ---
 
-## 📄 [Security Policy](./Security-Policy.md)
+## 📄 [Security Policy](./Security_Policy.md)
 
 ---
 

@@ -12,19 +12,19 @@ Click on the titles below to access the documents.
 
 ---
 
-## 📄 [Annex I: Web Hosting Terms](./Annex-I-Web-Hosting-Terms.md)
+## 📄 [Annex I: Web Hosting Terms](./Annex_I_Web_Hosting_Terms.md)
 
 ---
 
-## 📄 [Annex II: Managed WordPress Terms](./Annex-II-Managed-WordPress-Terms.md)
+## 📄 [Annex II: Managed WordPress Terms](./Annex_II_Managed_WordPress_Terms.md)
 
 ---
 
-## 📄 [Privacy Policy](./privacy/Privacy-Policy.md)
+## 📄 [Privacy Policy](./privacy/Privacy_Policy.md)
 
 ---
 
-## 📄 [Affiliates Agreement](./Affiliates-Agreement.md)
+## 📄 [Affiliates Agreement](./Affiliates_Agreement.md)
 
 ---
 
