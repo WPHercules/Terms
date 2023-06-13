@@ -20,7 +20,7 @@ Click on the titles below to access the documents.
 
 ---
 
-## 📄 [Privacy Policy](./privacy/Privacy_Policy.md)
+## 📄 [Privacy Policy](./privacy/privacy.md)
 
 ---
 
