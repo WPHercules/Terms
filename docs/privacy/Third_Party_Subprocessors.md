@@ -1,14 +1,14 @@
-# third-party-subprocessors
+# Third Party Subprocessors
 
 ***Updated 9th june 2023***
 
-This document is considered part of WPHercules [Privacy Policy](https://wpherc.com/terms/privacy-policy/) and [TOS](https://wpherc.com/terms/terms-of-service/).
+This document is considered part of WPHercules [Privacy Policy](https://terms.wphercules.com/privacy/) and [TOS](https://terms.wphercules.com/).
 
 WPHercules engages subprocessors that may process personal data submitted to WPHercules' services. We use only trusted companies that at least are committed to comply with European Union Privacy Shield Framework or better. These subprocessors are listed below, and may be updated by WPHercules from time to time. The list also contains some links to their terms of service and privacy policies, but we are not responsible of any changes of the URLs of those documents.
 
 If you want to know the exact list of subprocessors that affect your account, please request it sending a email to support @ wpherc.com
 
-Please also read our [Terms of Service](https://wpherc.com/terms/terms-of-service/) and [Privacy Policy](https://wpherc.com/terms/privacy-policy/) as they describe more about our practices.
+Please also read our [Terms of Service](https://terms.wphercules.com) and [Privacy Policy](https://terms.wphercules.com/privacy) as they describe more about our practices.
 
 ## Hosting providers and related companies
 

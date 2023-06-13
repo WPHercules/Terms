@@ -2,7 +2,7 @@
 
 ***Updated 9 of june of 2023***
 
-This document is considered part of WPHercules [Privacy Policy](https://wpherc.com/terms/privacy-policy/) and [TOS](https://wpherc.com/terms/terms-of-service/).
+This document is considered part of WPHercules [Privacy Policy](https://terms.wphercules.com/privacy/) and [TOS](https://terms.wphercules.com/).
 
 ---
 

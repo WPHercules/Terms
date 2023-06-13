@@ -2,8 +2,6 @@
 
 ***Effective as of 12 of june of 2023***
 
-**[Privacy policy](about:blank#privacy-policy)**
-
 ---
 
 ## Privacy Policy
@@ -18,7 +16,7 @@ Your privacy is critically important to us. At WPHercules, we have a few fundame
 - We help protect you from overreaching government demands for your personal information.
 - We aim for full transparency on how we gather and use your personal information.
 
-This document is WPHercules Privacy Policy, which incorporates and clarifies these principles. This Privacy Policy consists of the following documents: this Privacy Policy, [Cookie Policy](https://wpherc.com/terms/privacy-policy/cookie-policy/) and [Security Policy](https://wpherc.com/terms/privacy-policy/security-policy/). Collectively these documents are referred to herein as the "Privacy Policy". They are referred to by their individual names if a particular paragraph applies to that document alone.
+This document is WPHercules Privacy Policy, which incorporates and clarifies these principles. This Privacy Policy consists of the following documents: this Privacy Policy, [Cookie Policy](https://wpherc.com/terms/privacy-policy/cookie-policy/), [Security Policy](https://wpherc.com/terms/privacy-policy/security-policy/) and [Third_Party_Subprocessors.md](/Third_Party_Subprocessors.md/). Collectively these documents are referred to herein as the "Privacy Policy". They are referred to by their individual names if a particular paragraph applies to that document alone.
 
 ## 2.- Who we are and what this policy covers
 
