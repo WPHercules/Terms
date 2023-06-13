@@ -1,4 +1,4 @@
-# SCHEDULE I-Web Hosting and Related Services Terms and Conditions
+# Annex I Web Hosting Terms
 
 ***Effective as of 12th March 2021***
 

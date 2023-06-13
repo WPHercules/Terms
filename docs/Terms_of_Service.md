@@ -1,4 +1,4 @@
-# Terms of Service 
+# WPHercules Terms of Service 
 
 ***Effective as of 12th March 2021***
 

@@ -1,4 +1,4 @@
-# Privacy Policies
+# WPHercules Privacy Policies
 
 Click on the titles below to access the documents.
 

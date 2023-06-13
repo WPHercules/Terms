@@ -1,4 +1,4 @@
-# Términos y Condiciones
+# WPHercules Términos y Condiciones
 
 Haz clic en los títulos a continuación para acceder a los documentos.
 

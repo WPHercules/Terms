@@ -1,4 +1,4 @@
-# Terms and Conditions
+# WPHercules Terms and Conditions
 
 Click on the titles below to access the documents.
 
