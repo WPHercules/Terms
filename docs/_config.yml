@@ -1,0 +1,7 @@
+# Site settings
+title: Terms and Conditions
+description: WPHercules Terms
+
+# Build settings
+markdown: kramdown
+theme: minima
