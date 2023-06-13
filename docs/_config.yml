@@ -12,4 +12,8 @@ plugins:
 titles_from_headings:
   enabled:     true
   strip_title: true
-  collections: true 
+  collections: true ç
+
+header_pages:
+  - Terms_of_Service.md
+  - privacy.md
