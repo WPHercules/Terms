@@ -15,5 +15,7 @@ titles_from_headings:
   collections: true ç
 
 header_pages:
-  - Terms_of_Service.md
-  - privacy.md
+  - index.md
+  - /privacy/privacy.md
+  - /es/index.md
+  - /es/privacy/privacy.md
